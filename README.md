@@ -4,7 +4,6 @@
 <img src="https://github.com/Martinaa878/Martii-bot/blob/main/galeria/102%20sin%20t%C3%ADtulo_20230319210127.png" alt="MARTI-BOT" width="900"/>
 </p>
 
-### `—◉ ❤️BOTS OFICIALES`
 
 
 ### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
@@ -19,8 +18,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/Martinaa878/Martii-bot
+> cd Martii-bot
 > yarn install 
 > npm install
 > npm update
@@ -31,7 +30,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd Martii-bot
 > npm start
 ```
 
